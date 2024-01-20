@@ -1,0 +1,10 @@
+lastupdatecheck: 0
+recentrepos:
+- /home/ty/code/next-sites/waivero/auth-ui-service
+startuppopupversion: 5
+customcommandshistory:
+- 'git commit -m "chore: update prisma and postgres"'
+- q
+- exit
+hidecommandlog: false
+ignorewhitespaceindiffview: false
